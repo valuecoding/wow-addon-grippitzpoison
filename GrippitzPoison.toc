@@ -1,0 +1,7 @@
+## Interface: 20505
+## Title: GrippitzPoison
+## Notes: Displays remaining poison duration on weapons for Rogues.
+## Author: enjoymygripz
+## Version: 1.6-TBC
+## SavedVariables: GrippitzPoisonDB
+GrippitzPoison.lua
