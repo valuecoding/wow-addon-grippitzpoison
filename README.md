@@ -1,4 +1,4 @@
-# GrippitzPoison
+﻿# GrippitzPoison
 
 Displays remaining poison duration on weapons for Rogues.
 
@@ -6,6 +6,7 @@ Displays remaining poison duration on weapons for Rogues.
 
 - **Version:** 1.6-TBC
 - **Author:** enjoymygripz
+- **CurseForge:** https://www.curseforge.com/wow/addons/grippitzpoison
 
 ## Installation
 
@@ -15,4 +16,4 @@ Displays remaining poison duration on weapons for Rogues.
 
 ## License
 
-See LICENSE file for details.
+See license/LICENSE file if present, otherwise All Rights Reserved by the author.
